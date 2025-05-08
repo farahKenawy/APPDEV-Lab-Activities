@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    padding: 20px;
+}
+form {
+    margin-bottom: 30px;
+}
+input[type="number"] {
+    padding: 8px;
+    margin-right: 10px;
+    width: 80px;
+}
+input[type="submit"] {
+    padding: 8px 16px;
+    background-color: #3498db;
+}
+.log {
+    color: #fff;
+    background-color: #8
+}
+.vvip {
+    color: #fff;
+    border-bottom: 1px solid #ddd;
+}
+.vip {
+    color: #fff;
+    background-color: #2980b9;
+}
+.regular {
+    color: #fff;
+    background-color: #27ae60;
+}
+.general {
+    color: #fff;
+    background-color: #e67e22;
+}
+.special {
+    color: #fff;
+    background-color: #c0392b;
+}
